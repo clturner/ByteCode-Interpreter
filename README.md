@@ -12,7 +12,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes.
 Monty relies on a unique stack, with specific instructions to manipulate it.
 
 ## How to use monty
-1. Clone: `$ git clone https://github.com/KRLoyd/monty.git`
+1. Clone: `$ git clone https://github.com/clturner/ByteCode-Interpreter`
 2. Compile: `$ gcc -Wall -Werror -Wextra -pedantic *.c -o monty`
 
 ## Run 
