@@ -1,8 +1,8 @@
-# monty
-An interpreter for Monty ByteCodes files.
+# ByteCode-Interpreter
+An interpreter for monty ByteCodes files.
 
 ### Environment
-monty runs on Ubuntu 14.04 LTS
+ByteCode-Interpreter runs on Ubuntu 14.04 LTS
 ### Compilation
 Compile with `gcc -Wall -Werror -Wextra -pedantic` version 4.8.4
 ### Header
